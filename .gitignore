@@ -1,0 +1,7 @@
+out
+*.so
+*.pyc
+.config
+.config.old
+.vscode/
+klippy/.version
